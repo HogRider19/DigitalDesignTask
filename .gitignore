@@ -4,5 +4,7 @@ obj/
 riderModule.iml
 /_ReSharper.Caches/
 
-.idea
-.idea/
+/.idea/
+
+Input.txt
+Output.txt
